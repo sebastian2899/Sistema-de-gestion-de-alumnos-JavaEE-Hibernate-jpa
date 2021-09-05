@@ -1,0 +1,17 @@
+com\co\web\ServletControlador.class
+com\co\web\ServletModificar.class
+com\co\dao\ContactoDao.class
+com\co\dao\CursoDao.class
+com\co\domain\Asignacion.class
+com\co\dao\AsignacionDao.class
+com\co\domain\Contacto.class
+com\co\domain\Alumno.class
+com\co\dao\DomicilioDao.class
+test\Test.class
+com\co\dao\AlumnoDao.class
+com\co\web\ServletAgregar.class
+com\co\dao\JPAUtil.class
+com\co\servicio\ServicioAlumno.class
+com\co\web\ServletRegistrar.class
+com\co\domain\Domicilio.class
+com\co\domain\Curso.class
